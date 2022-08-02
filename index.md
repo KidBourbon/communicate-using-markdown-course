@@ -3,3 +3,10 @@
 ###### This is a small header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+private Start()
+{
+    Debug.Log("Hello World!");
+}
+```
